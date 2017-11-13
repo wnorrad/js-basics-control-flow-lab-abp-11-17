@@ -24,3 +24,4 @@ function switchOnCharmFromTip(tip) {
   } else if (tip <= 4) {
     return 'Bye.'
   }
+}
